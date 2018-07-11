@@ -27,7 +27,9 @@ Implementations of Linked List - 07 June, 2018
 
 ### Graph 1 - 11 June, 2018
 1. Blog Series : 
-<http://www.shafaetsplanet.com/?p=1432. https://www.geeksforgeeks.org/tarjan-algorithm-find-strongly-connected-components/><https://www.geeksforgeeks.org/tarjan-algorithm-find-strongly-connected-components/>
+<http://www.shafaetsplanet.com/?p=1432.>
+<https://www.geeksforgeeks.org/tarjan-algorithm-find-strongly-connected-components/>
+<https://www.geeksforgeeks.org/tarjan-algorithm-find-strongly-connected-components/>
 3. <https://paste.ubuntu.com/p/GG3jVNjHhH/>
 
 ### Greedy - 14 June, 2018
@@ -37,10 +39,10 @@ Implementations of Linked List - 07 June, 2018
 ### Simulation - 19 June,2018
 1. Probs : <https://a2oj.com/category?ID=63>
 2. Probs : <https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=698>
-3. Prob : <https://vjudge.net/problem/POJ-3658Dynamic Segment Tree - 21 June, 20181. Code : https://paste.ubuntu.com/p/hzzcPhYyv5/2. Prob : https://www.spoj.com/problems/HORRIBLE/3. Prob List : http://www.lightoj.com/volume_problemcategory.php?user_id=11169&category=Segment%20Tree/Interval%20Tree4. Prob : https://vjudge.net/contest/226898>
+3. Prob : <https://vjudge.net/problem/POJ-3658>
 
 ### Dynamic Segment Tree - 21 June, 2018
-1. Code :  <https://vjudge.net/problem/POJ-3658Dynamic Segment Tree - 21 June, 20181. Code : https://paste.ubuntu.com/p/hzzcPhYyv5/2. Prob : https://www.spoj.com/problems/HORRIBLE/3. Prob List : http://www.lightoj.com/volume_problemcategory.php?user_id=11169&category=Segment%20Tree/Interval%20Tree4. Prob : https://vjudge.net/contest/226898><https://paste.ubuntu.com/p/hzzcPhYyv5/>
+1. Code : <https://paste.ubuntu.com/p/hzzcPhYyv5/>
 2. Prob : <https://www.spoj.com/problems/HORRIBLE/>
 3. Prob List : <http://www.lightoj.com/volume_problemcategory.php?user_id=11169&category=Segment%20Tree/Interval%20Tree>
 4. Prob : https://vjudge.net/contest/226898#problem/J <https://vjudge.net/contest/226898>
